@@ -1,0 +1,5 @@
+#use for resolution so my graphics dont streatch too far
+pip install pywin32
+#plays audio
+pip install simpleaudio
+
