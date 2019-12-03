@@ -6,6 +6,7 @@ make sure to lower your volume before trying the notes(my system volume was at 2
 Windows
 simpleaudio 
 installed with command (pip install simpleaudio)    https://github.com/hamiltron/py-simple-audio
+WAV or MP3 files configured inside the code on lines 12-13 (50/50 i edit code to make this easier)
 
 # USAGE
 after clicking play make sure you enter the bpm you intend to use
